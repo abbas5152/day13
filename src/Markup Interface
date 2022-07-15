@@ -1,0 +1,6 @@
+Q3) Explain about Marker interface?
+A3) An interface in which if there is no abstract class or not any static variable then that class
+    known as Marker interface or tagged interface. example Serializable and Cloneable
+ example:
+      public Interface Moon{
+      }
